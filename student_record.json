@@ -1,0 +1,72 @@
+[
+    {
+        "Name": "Zawedde",
+        "Age": 22,
+        "Grades": {
+            "English": 45,
+            "Science": 78,
+            "SST": 90,
+            "Math": 99
+        }
+    },
+    {
+        "Name": "Kennedy",
+        "Age": "32",
+        "Grades": {
+            "English": "23",
+            "Science": "44",
+            "SST": "45",
+            "Math": "34"
+        }
+    },
+    {
+        "Name": "Kwaso",
+        "Age": 22,
+        "Grades": {
+            "English": 56,
+            "Science": 90,
+            "SST": 88,
+            "Math": 88
+        }
+    },
+    {
+        "Name": "Tristan",
+        "Age": "67",
+        "Grades": {
+            "English": "90",
+            "Science": "99",
+            "SST": "45",
+            "Math": "77"
+        }
+    },
+    {
+        "Name": "Maria",
+        "Age": "21",
+        "Grades": {
+            "English": "45",
+            "Science": "78",
+            "SST": "90",
+            "Math": "60"
+        }
+    },
+    {
+        "Name": "William",
+        "Age": 43,
+        "Grades": {
+            "English": 89,
+            "Science": 90,
+            "SST": 90,
+            "Math": 78
+        }
+    },
+    {
+        "Name": "Teven",
+        "Age": 33,
+        "Grades": {
+            "English": 45,
+            "Science": 66,
+            "SST": 66,
+            "Math": 77
+        }
+    }
+]

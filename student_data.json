@@ -1,0 +1,69 @@
+{
+    "students": [
+        {
+            "Name": "Zoey",
+            "Age": "25",
+            "Grade": "C"
+        },
+        {
+            "Name": "Zayne",
+            "Age": 25,
+            "Grade": "B"
+        },
+        {
+            "Name": "Freya",
+            "Age": 32,
+            "Grade": "A+"
+        },
+        {
+            "Name": "Eric",
+            "Age": 23,
+            "Grade": "A"
+        },
+        {
+            "Name": "Arthur",
+            "Age": 45,
+            "Grade": "B+"
+        },
+        {
+            "Name": "Micheal",
+            "Age": "23",
+            "Grade": "D"
+        },
+        {
+            "Name": "Restituta",
+            "Age": "35",
+            "Grade": "A"
+        },
+        {
+            "Name": "Alyson",
+            "Age": "32",
+            "Grade": "C"
+        },
+        {
+            "Name": "Gabby",
+            "Age": 32,
+            "Grade": "A-"
+        },
+        {
+            "Name": "Jack",
+            "Age": 15,
+            "Grade": "A+"
+        },
+        {
+            "Name": "Axel",
+            "Age": 22,
+            "Grade": "C"
+        },
+        {
+            "Name": "Sandy",
+            "Age": 55,
+            "Grade": "C"
+        },
+        {
+            "Name": "Jolly",
+            "Age": 22,
+            "Grade": "D"
+        }
+    ]
+}

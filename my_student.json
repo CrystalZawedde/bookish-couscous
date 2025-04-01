@@ -1,0 +1,17 @@
+{
+    "name": "Crystal",
+    "Age": 21,
+    "Grades": {
+        "Math": 97,
+        "Physics": 90,
+        "Chemistry": 79,
+        "Biology": 98
+    },
+    "Hobbies": [
+        "singing",
+        "dancing",
+        "coding",
+        "cooking",
+        "Reading"
+    ]
+}

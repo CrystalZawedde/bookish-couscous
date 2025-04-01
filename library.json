@@ -1,0 +1,43 @@
+[
+    {
+        "Title": "1984",
+        "Author": "George Orwell",
+        "Year published": "1991",
+        "Genres": [
+            "dystopian",
+            "fiction"
+        ],
+        "Is_available": true
+    },
+    {
+        "Title": "First move",
+        "Author": "Julian Chatterly",
+        "Year published": "2008",
+        "Genres": [
+            "strategy",
+            "finance"
+        ],
+        "Is_available": false
+    },
+    {
+        "Title": "Seek God",
+        "Author": "George Bevere",
+        "Year published": "1997",
+        "Genres": [
+            "Christian",
+            "non-fiction"
+        ],
+        "Is_available": true
+    },
+    {
+        "Title": "New Normal",
+        "Author": "Hamson Hill",
+        "Year published": "2008",
+        "Genre": [
+            "Chritian",
+            "love",
+            "dystopian"
+        ],
+        "Is available": true
+    }
+]
